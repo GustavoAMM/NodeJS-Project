@@ -9,7 +9,10 @@ Iniciar proyecto:
 ```
 npm run dev
 ```
-
+Comando completo para iniciar el proyecto:
+```
+nodemon src/index.js
+```
 
 Link del proyecto => [Angel-NodeJS](https://angel-nodejs.herokuapp.com/)
 
