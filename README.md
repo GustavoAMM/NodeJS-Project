@@ -5,6 +5,11 @@ Instalar el proyecto:
 npm install
 ```
 
+Iniciar proyecto:
+```
+npm run dev
+```
+
 
 Link del proyecto => [Angel-NodeJS](https://angel-nodejs.herokuapp.com/)
 
