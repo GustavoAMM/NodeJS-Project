@@ -1,7 +1,7 @@
 # NodeJS project
 
 
-## Link del proyecto => [Angel-NodeJS](https://angel-nodejs.herokuapp.com/)
+### Link del proyecto => [Angel-NodeJS](https://angel-nodejs.herokuapp.com/)
 
 Instalar el proyecto:
 ```
@@ -17,9 +17,8 @@ Comando completo para iniciar el proyecto:
 nodemon src/index.js
 ```
 
-Link del proyecto => [Angel-NodeJS](https://angel-nodejs.herokuapp.com/)
 
-
+>
 > 22 de octubre de 2022
 >
 > Tecnologias:
@@ -27,4 +26,5 @@ Link del proyecto => [Angel-NodeJS](https://angel-nodejs.herokuapp.com/)
 > - Express
 > - Bootstrap
 >
->By Gustavo Angel Montoya Mart
+> By Gustavo Angel Montoya Mart
+> 
