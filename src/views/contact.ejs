@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>
+        <%=tittle%>
+    </title>
+    <%- include('partials/head')%>
+</head>
+
+<body>
+    <%- include('partials/nav')%>
+
+    <div class="container vh-100 d-flex justify-content-center align-items-center">
+        <div class="card bg-dark text-white text-center">
+            <div class="card-header">
+                 Contact me
+            </div>
+            <div class="card-body text-start">
+                <form action="">
+                   <div class="mb-3">
+                    <label for="email">E-mail</label>
+                    <input type="email" name="" placeholder="E-mail" id="" class="form-control">
+                   </div>
+
+                    <div class="mb-3">
+                        <label for="mesage">Message</label>
+                    <textarea name="mesage" id="" cols="30" rows="3" class="form-control" placeholder="Message"></textarea>
+                    </div>
+                    <button class="btn btn-success btn-block">save</button>
+                </form>
+            </div>
+        </div>
+    </div>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/js/bootstrap.bundle.min.js"></script>
+
+</body>
+
+</html>
