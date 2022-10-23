@@ -4,7 +4,7 @@ Inicializar el proyecto:
 ```
 npm install
 ```
-Link => [Angel-NodeJS](https://angel-nodejs.herokuapp.com/)
+Link del proyecto => [Angel-NodeJS](https://angel-nodejs.herokuapp.com/)
 
 > 22 de octubre de 2022
 >
